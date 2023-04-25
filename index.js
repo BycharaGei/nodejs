@@ -14,6 +14,6 @@ const server = net.createServer((socket) => {
 
 const PORT = 3000;
 
-server.listen(PORT, 'nodejs-production-3117.up.railway.app',  () => {
+server.listen(PORT, () => {
   console.log('sa as');
 });
