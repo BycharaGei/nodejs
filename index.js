@@ -14,6 +14,6 @@ const server = net.createServer((socket) => {
 
 const PORT = 3000;
 
-server.listen(PORT, '104.196.232.237' () => {
+server.listen(PORT, '104.196.232.237', () => {
   console.log('sa as');
 });
